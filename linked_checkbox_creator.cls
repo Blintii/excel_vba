@@ -1,4 +1,4 @@
-Public Sub linked_checkbox_creator()
+Public Sub LinkedCheckboxCreator()
     Dim list As New collection
     Dim rng As Range
     Dim cell As Range
