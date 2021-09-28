@@ -1,4 +1,4 @@
-Sub CalendarGenerator(Target As Range)
+Public Sub CalendarGenerator(Target As Range)
     Dim val As Integer
     
     If IsNumeric(Target.Value) Then
